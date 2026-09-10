@@ -11,10 +11,10 @@
             "id": "2026fb66f28e4e8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -182,5 +182,8 @@
     }
   },
   "active": "2026fb66f28e4e8d",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Papers.md",
+    "Idea.md"
+  ]
 }
